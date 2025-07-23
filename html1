@@ -1,4 +1,12 @@
-<center>
-  <h1>Vijay</h1>
-</center>
-<hr>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Test Page</title>
+</head>
+<body>
+    <center>
+        <h1>Vijay</h1>
+    </center>
+    <hr>
+</body>
+</html>
